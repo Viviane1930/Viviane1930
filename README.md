@@ -1,16 +1,13 @@
-## Hi there 👋
+Minhas Experiências com Java
+Introdução
+Olá! Neste repositório, compartilho meus projetos, aprendizados e experiências ao longo do tempo com a linguagem de programação Java. Abaixo, você encontrará detalhes sobre minha jornada com Java, desde os primeiros passos até as implementações mais avançadas que venho trabalhando.
 
-<!--
-**Viviane1930/Viviane1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Iniciei minha jornada com Java no ano de 2024 e ao longo dessa trajetória, aprendi a construir aplicações robustas e escaláveis, explorar conceitos de Orientação a Objetos, e entender ferramentas populares, além de trabalhar com as melhores práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+Principais Áreas de Experiência
+Aqui estão algumas das áreas em que desenvolvi conhecimento profundo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Orientação a Objetos (OOP)
+Criação de classes, objetos, herança, polimorfismo e encapsulamento.
+Aplicação de princípios SOLID para melhorar a qualidade do código.
